@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Het Shah</h1>
-<h3 align="center">A passionate frontend developer from India interested in the domain of Data</h3>
+<h3 align="center">A passionate developer from India interested in the domain of Data</h3>
 
 - 🌱 I’m currently learning **python,libraries**
 
